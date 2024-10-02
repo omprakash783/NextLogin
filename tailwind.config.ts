@@ -12,6 +12,9 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        sans: ["Helvetica", "Arial", "sans-serif"], // Add Helvetica here
+      },
     },
   },
   plugins: [],
